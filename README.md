@@ -1,0 +1,5 @@
+# ELECTRON METADATA
+
+```
+yarn start
+```
